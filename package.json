@@ -1,0 +1,17 @@
+{
+  "name": "Generic",
+  "version": "0.0.0",
+  "description": "Generic collection",
+  "keywords": "generic, collection",
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "",
+    "email": "",
+    "url": ""
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FPGAwars/collection-generic"
+  }
+}
