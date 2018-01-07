@@ -11,10 +11,23 @@ Generic collection.
 * Install the collection: *Tools > Collections > Add*
 * Load the collection: *Select > Collection*
 
+## Blocks
+* *Bit*
+  * 0
+  * 1
 
+## Examples
+* *1\. Basic*
+  * 01\. One LED
 
+## Languages
+| Language | Translated strings |
+|:--------:|:------------------:|
+| en | ![Progress](http://progressed.io/bar/100) |
+| es_ES | ![Progress](http://progressed.io/bar/100) |
 
 ## Authors
+* [Jesús Arroyo Torrens](https://github.com/Jesus89)
 
 
 ## License
