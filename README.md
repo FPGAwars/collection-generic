@@ -15,6 +15,15 @@ Generic collection.
 * *Bit*
   * 0
   * 1
+* *Signal*
+  * *Filtering*
+    * add
+    * filteringcell
+    * fir1
+    * fir2
+    * gain
+    * iir
+    * zpowerminus1
 
 ## Examples
 * *1\. Basic*
